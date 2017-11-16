@@ -1,4 +1,4 @@
-﻿
+﻿//test
 var script_src = chrome.runtime.getURL('enable.js');
 var inject_script =
     "var script = document.createElement('script');\
